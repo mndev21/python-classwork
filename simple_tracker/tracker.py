@@ -14,3 +14,6 @@ class Tracker:
           
     def __str__(self):
         return f"Current count is: {self.count}"
+    
+    def small_change(self):
+        print("This is a small change in the Tracker class.")
