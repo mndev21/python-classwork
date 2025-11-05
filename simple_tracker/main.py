@@ -1,6 +1,6 @@
 import time
 
-from simple_tracker.tracker import Tracker
+from tracker import Tracker
 
 
 def read_interval():
